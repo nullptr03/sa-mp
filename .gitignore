@@ -14,3 +14,10 @@
 # Delphi compiled units and diagram portfolio
 *.dcu
 *.ddp
+
+# Saco
+saco/.vs/
+saco/Backup
+saco/UpgradeLog.htm
+saco/saco.vcxproj.filters
+saco/saco.vcxproj.user
